@@ -3,10 +3,10 @@
     <PROJECT_DATA_XML_NAME NAME="DISPLAY_DATA">
         <SAVE_STATE>
             <ARRAY NAME="EXPANDED_PATHS" TYPE="string">
-                <A VALUE="Hhackaday.io:Day2:" />
                 <A VALUE="Hhackaday.io:Day4:" />
                 <A VALUE="Hhackaday.io:" />
                 <A VALUE="Hhackaday.io:Day3:" />
+                <A VALUE="Hhackaday.io:Day2:" />
             </ARRAY>
             <STATE NAME="SHOW_TABLE" TYPE="boolean" VALUE="false" />
         </SAVE_STATE>
